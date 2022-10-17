@@ -1,0 +1,14 @@
+{
+  "properties" : { },
+  "id" : "19c295c2b7bd482eba03e0c2c38b67f0",
+  "name" : "git组",
+  "type" : "api",
+  "parentId" : "0",
+  "path" : "git-group",
+  "createTime" : 1665999722801,
+  "updateTime" : null,
+  "createBy" : null,
+  "updateBy" : null,
+  "paths" : [ ],
+  "options" : [ ]
+}
